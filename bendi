@@ -1,0 +1,26 @@
+<div style="width: 1597px; height: 1062px; position: relative">
+  <div style="width: 1504px; height: 1062px; left: 0px; top: 0px; position: absolute; background: #454545; border-radius: 13px; overflow: hidden">
+    <div style="width: 1449px; height: 994px; left: 28px; top: 34px; position: absolute; background: white; border-radius: 13px"></div>
+    <div style="width: 451px; height: 102px; left: 121px; top: 291px; position: absolute; color: #667F29; font-size: 54px; font-family: Anton; font-weight: 400; letter-spacing: 3.24px; word-wrap: break-word">Unleash Gaming</div>
+    <div style="width: 96px; height: 39px; left: 63px; top: 63px; position: absolute; color: #494949; font-size: 25px; font-family: Anton; font-weight: 400; letter-spacing: 1.50px; word-wrap: break-word">MoveX</div>
+    <div style="width: 418px; height: 140px; left: 121px; top: 377px; position: absolute; color: #404040; font-size: 27px; font-family: Sulphur Point; font-weight: 700; word-wrap: break-word">Non-stop gaming with MoveX powerful hardware. MoveX provides laptops and computers <br/>for your heavy gaming.</div>
+    <div style="width: 341px; height: 140px; left: 428px; top: 819px; position: absolute; color: #494949; font-size: 23px; font-family: Sulphur Point; font-weight: 700; word-wrap: break-word">16GB , Nvidia GeForce GTX 1060<br/>1TB Hard disk ,  SSD 256GB , Windows 10 Home ,  Display size 15.60-inch </div>
+    <div style="width: 248px; height: 28px; left: 1190px; top: 63px; position: absolute">
+      <div style="width: 69px; height: 27px; left: 179px; top: 1px; position: absolute; color: #667F29; font-size: 24px; font-family: Sulphur Point; font-weight: 700; word-wrap: break-word">About</div>
+      <div style="width: 91px; height: 27px; left: 113px; top: 0px; position: absolute; color: #667F29; font-size: 24px; font-family: Sulphur Point; font-weight: 700; word-wrap: break-word">Blog</div>
+      <div style="width: 102px; height: 27px; left: 0px; top: 0px; position: absolute; color: #667F29; font-size: 24px; font-family: Sulphur Point; font-weight: 700; word-wrap: break-word">Solutions</div>
+    </div>
+    <img style="width: 302px; height: 201px; left: 71px; top: 775px; position: absolute" src="https://via.placeholder.com/302x201" />
+    <div style="width: 57px; height: 19px; left: 1246px; top: 857px; position: absolute">
+      <div style="width: 19px; height: 19px; left: 0px; top: 0px; position: absolute; border-radius: 9999px; border: 1px black solid"></div>
+      <div style="width: 19px; height: 19px; left: 38px; top: 0px; position: absolute; border-radius: 9999px; border: 1px black solid"></div>
+      <div style="width: 13px; height: 13px; left: 3px; top: 3px; position: absolute; background: #1E1E1E; border-radius: 9999px"></div>
+    </div>
+    <div style="width: 180px; height: 58px; left: 116px; top: 545px; position: absolute">
+      <div style="width: 175px; height: 51px; left: 0px; top: 7px; position: absolute; border-radius: 5px; border: 2px #040404 solid"></div>
+      <div style="width: 175px; height: 51px; left: 5px; top: 1px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Anton; font-weight: 400; letter-spacing: 1.20px; word-wrap: break-word">Explore</div>
+      <div style="width: 175px; height: 51px; left: 5px; top: 0px; position: absolute; border-radius: 5px; border: 2px #040404 solid"></div>
+    </div>
+  </div>
+  <img style="width: 923px; height: 706px; left: 674px; top: 101px; position: absolute" src="https://via.placeholder.com/923x706" />
+</div>
